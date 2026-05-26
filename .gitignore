@@ -7,3 +7,8 @@ __pycache__/
 .idea/
 .OTTER_LOG
 *__20*
+
+# Instructor-only archives — never publish
+CSCI 3022 Summer 2025-git_ignore.zip
+*git_ignore*.zip
+*Summer 2025*
