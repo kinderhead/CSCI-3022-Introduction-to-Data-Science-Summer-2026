@@ -32,3 +32,9 @@ new zips/
 **/new zips/
 New Zips/
 **/New Zips/
+
+# Master notebooks with solutions — instructor-only, NEVER publish
+master notebook with solutions/
+**/master notebook with solutions/
+*_master_with_solutions.ipynb
+*master*solution*.ipynb
