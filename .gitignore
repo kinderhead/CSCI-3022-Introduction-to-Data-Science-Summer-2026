@@ -26,3 +26,9 @@ autograder/
 autograder*.zip
 hw*-autograder*.zip
 hw*-autograder*/
+
+# Staged zips ready for Gradescope upload — instructor-only
+new zips/
+**/new zips/
+New Zips/
+**/New Zips/
