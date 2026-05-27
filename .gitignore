@@ -12,3 +12,8 @@ __pycache__/
 CSCI 3022 Summer 2025-git_ignore.zip
 *git_ignore*.zip
 *Summer 2025*
+
+# Attendance records — instructor-only, contains student data (FERPA)
+Attendance/
+**/Attendance/
+*Attendance*.csv
