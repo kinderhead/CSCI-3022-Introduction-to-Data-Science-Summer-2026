@@ -17,3 +17,12 @@ CSCI 3022 Summer 2025-git_ignore.zip
 Attendance/
 **/Attendance/
 *Attendance*.csv
+
+# Autograders — instructor-only (contains hidden tests, master notebooks with solutions)
+Autograders/
+**/Autograders/
+autograder/
+**/autograder/
+autograder*.zip
+hw*-autograder*.zip
+hw*-autograder*/
