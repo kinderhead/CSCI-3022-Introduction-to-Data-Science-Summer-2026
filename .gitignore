@@ -38,3 +38,11 @@ master notebook with solutions/
 **/master notebook with solutions/
 *_master_with_solutions.ipynb
 *master*solution*.ipynb
+
+# Manual Solutions — instructor-only, NEVER publish (contains HW solution PDFs)
+Manual Solutions/
+**/Manual Solutions/
+manual solutions/
+**/manual solutions/
+*Manual*Solution*
+*manual*solution*
