@@ -46,3 +46,19 @@ manual solutions/
 **/manual solutions/
 *Manual*Solution*
 *manual*solution*
+
+# Manual homework grades — FERPA-protected (per-student feedback PDFs, .tex sources,
+# raw Gradescope submissions, build artifacts). The local folder is misspelled
+# "Manaul" so include that variant explicitly.
+Manaul Homework Solutions/
+**/Manaul Homework Solutions/
+*Manaul*Solution*
+*Manaul*Homework*
+**/Students Graded/
+**/*Students Graded*/
+**/submissions/
+**/submissions graded/
+**/submission_metadata.yml
+grades/
+gradebook*
+*.gradebook
