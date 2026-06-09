@@ -62,3 +62,20 @@ Manaul Homework Solutions/
 grades/
 gradebook*
 *.gradebook
+
+# Exams — instructor-only, NEVER publish (exam questions, solution keys, prep, reviews)
+past exams/
+**/past exams/
+Past Exams/
+**/Past Exams/
+Exams/
+**/Exams/
+exams/
+**/exams/
+*Exam*.pdf
+*Exam*.tex
+*EXAM*.pdf
+*Exam*Solutions*
+*exam*solution*
+*exam*review*
+*EXAM*PREP*
